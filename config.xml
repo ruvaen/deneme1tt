@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="net.bitutam.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Kendin Pişir</name>
-    <description>En güzel tarifler!</description>
+    <name>Bi Tutam</name>
+    <description>Bi tutam yemek tarifi !</description>
     <author email="bitutamnet@gmail.com" href="http://www.bitutam.net"></author>
 
     <preference name="phonegap-version" value="3.3.0" />
